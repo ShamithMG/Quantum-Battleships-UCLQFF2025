@@ -55,6 +55,8 @@ The core game loop forces a strategic choice on every turn:
 * Do I use a "Reckless Bomb" (low $N$)? This is cheap, letting me probe many squares, but it will likely cost me a life if I find a ship.
 * Do I use a "Stealth Bomb" (high $N$)? This is expensive, draining my budget, but it will almost certainly *not* cost me a life, maximizing my E.V. Score.
 
+ - Use the slider or directly input the number of stealth points you want to use to attack the square
+
 ### 2. Quantum Physics Principles Used
 
 The game is a direct implementation of the **Quantum Zeno Effect** (from the `UCL QFF 2025 - Quantum bomb and the watched pot effect.ipynb` notebook). This effect describes how a quantum system's evolution can be "frozen" by repeated, frequent measurement.
