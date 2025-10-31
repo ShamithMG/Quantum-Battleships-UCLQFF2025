@@ -98,6 +98,9 @@ for i in range(N):
 ```
 ![sample quantum circuit](image-1.png)
 
+With the results of this the game decided whether you are succesful in destroying the ship on that square or not
+
+
 ### 4. References
 * `UCL QFF 2025 - Quantum bomb and the watched pot effect.ipynb` (The provided hackathon tutorial)
 * Misra, B., & Sudarshan, E. C. G. (1977). The Zeno’s paradox in quantum theory. Journal of Mathematical Physics, 18(4), 756–763.
